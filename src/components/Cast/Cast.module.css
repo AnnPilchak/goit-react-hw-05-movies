@@ -1,0 +1,13 @@
+.castList {
+    padding: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 35px;
+}
+
+.castImg {
+    width: 400px;
+    border-radius: 10px;
+}
