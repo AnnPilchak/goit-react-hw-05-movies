@@ -1,0 +1,10 @@
+.wrapper {
+    padding: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 60px;
+}
